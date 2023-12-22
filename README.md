@@ -59,3 +59,22 @@ Otra mejora significativa podría realizarse en la parte de hardware. A medida q
 
 ## 
 @authors: Victor Valles - Oscar Julian - Carles Torrubiano  
+
+### Requerimientos:
+  - PYTHON 3.9 o superior
+
+### Ejecución:
+1. Des del terminal ir hasta la carpeta de Implementación del proyecto.´
+2. Realizar instalación de las siguientes librerias.
+```html
+  1. pip install python-telegram-bot
+  2. pip install requests
+  3. pip install pyspellchecker
+  4. pip install nltk
+  5. python
+  6. import nltk
+  7. nltk.download() -- En este punto se abrirá una ventana en modo grafico donde trendremos que marcar "all" y descargarlo en la ruta por defecto.
+```
+4. Descargar la aplicación de Telegram desde Android o iOS o acceder a web.telegram.org para probarlo desde la web.
+5. Usar comando 'python main.py' o 'py main.py'.
+6. Buscar el bot @sbc_dog_bot e iniciar un chat.
