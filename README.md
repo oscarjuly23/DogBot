@@ -79,3 +79,5 @@ Otra mejora significativa podría realizarse en la parte de hardware. A medida q
 4. Descargar la aplicación de Telegram desde Android o iOS o acceder a web.telegram.org para probarlo desde la web.
 5. Usar comando 'python main.py' o 'py main.py'.
 6. Buscar el bot @sbc_dog_bot e iniciar un chat.
+
+![image](https://github.com/oscarjuly23/DogBot/assets/39187459/7148c764-3914-4cbd-952f-9f60fff7f690)
