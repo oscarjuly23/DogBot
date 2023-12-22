@@ -58,8 +58,8 @@ Como líneas futuras, el sistema de recomendación podría considerar otros aspe
 Otra mejora significativa podría realizarse en la parte de hardware. A medida que el volumen de usuarios sea significativo, los requisitos de hardware necesarios para el servidor serían más elevados. Se podría disponer de un servidor que mantenga la aplicación activa en todo momento. Por último, se pueden mejorar otros aspectos, como la comunicación del bot para que adquiera un lenguaje más humano, que ya se tiene en cuenta pero es un aspecto siempre mejorable.
 
 ## 
-@authors: Victor Valles - Oscar Julian - Carles Torrubiano
-@date: 08 de Juny 2021
+@authors: Victor Valles - Oscar Julian - Carles Torrubiano  
+@date: 08 de Junio 2021
 
 ### Requerimientos:
   - PYTHON 3.9 o superior
